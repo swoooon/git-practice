@@ -1,1 +1,7 @@
-hihi
+[tag] : message
+
+fix : 수정사항을 수정했을떄
+feat : 기능을 추가했을때
+typo : 오타수정
+design : 디자인바꿀때
+chore : 환경 변경할때
